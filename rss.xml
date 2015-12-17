@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Fishermen never Lie]]></title>
         <description><![CDATA[Fishermen never Lie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fishermenneverlie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 01:20:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 01:25:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fishermenneverlie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3636f85-064f-4d9e-9f51-4155e5d5c677.png">]]></description>
+            <link>https://thegrid.ai/fishermenneverlie/ead85a96-6a87-4e18-a327-03e46394c628/index.html</link>
+            <guid isPermaLink="false">ead85a96-6a87-4e18-a327-03e46394c628</guid>
+            <pubDate>Thu, 17 Dec 2015 01:25:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Testing this out yo</p>]]></description>
-            <link>undefinedd9fb31f2-455f-467c-b7f2-8dd6c0279699/index.html</link>
+            <link>https://thegrid.ai/fishermenneverlie/d9fb31f2-455f-467c-b7f2-8dd6c0279699/index.html</link>
             <guid isPermaLink="false">d9fb31f2-455f-467c-b7f2-8dd6c0279699</guid>
             <pubDate>Thu, 17 Dec 2015 01:20:50 GMT</pubDate>
         </item>
